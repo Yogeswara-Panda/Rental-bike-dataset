@@ -1,1 +1,1 @@
-# panda1
+# Rental bike logistic regression using R
